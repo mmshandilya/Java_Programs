@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.stream.Collectors;
  public class EmployeeDemo 
  {
-
 	private String name;
 	private int id;
 	private long salary;
